@@ -77,7 +77,7 @@ export default function Login() {
     <div className="max-w-md mx-auto py-12">
       <Card>
         <Card.Header>
-          <h1 className="text-2xl font-bold text-center">NETBOND</h1>
+          <h1 className="text-2xl font-bold text-center">NET</h1>
           <h3 className="text-2xl font-bold text-center">Proceed To Login</h3>
         </Card.Header>
         
